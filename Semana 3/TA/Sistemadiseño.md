@@ -1,5 +1,8 @@
 # Sistema de diseño
 
+## link de youtube
+https://www.youtube.com/watch?v=Ehsc8Bmum2w 
+
 ## Teoría
 
 Un sistema de diseño es un conjunto de componentes, reglas, directrices y herramientas que se utilizan de manera coherente para diseñar y desarrollar productos digitales de manera eficiente y consistente. Este enfoque se utiliza en áreas como el diseño de interfaces de usuario (UI), diseño de experiencia de usuario (UX), diseño de productos y diseño gráfico. 
